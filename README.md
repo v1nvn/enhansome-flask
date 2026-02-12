@@ -1,4 +1,4 @@
-# Awesome Flask [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,588 | 🐛 68 | 📅 2026-01-28 with stars
+# Awesome Flask [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,832 | 🐛 67 | 📅 2026-01-28 with stars
 
 > A curated list of awesome things related to Flask.
 
@@ -45,7 +45,7 @@
 
 ### Admin
 
-* [Flask-Admin](https://github.com/pallets-eco/flask-admin) ⭐ 6,055 | 🐛 151 | 🌐 Python | 📅 2026-02-11 - Functional admin panel that provides a user interface for managing data based on your models.
+* [Flask-Admin](https://github.com/pallets-eco/flask-admin) ⭐ 6,055 | 🐛 150 | 🌐 Python | 📅 2026-02-11 - Functional admin panel that provides a user interface for managing data based on your models.
 
 ### APIs
 
@@ -103,7 +103,7 @@
 ### Data Validation and Serialization
 
 * [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io) - Thin integration layer for Flask and marshmallow (an object serialization /deserialization library) that adds additional features to marshmallow.
-* [Flask-Pydantic](https://github.com/pallets-eco/flask-pydantic) ⭐ 433 | 🐛 20 | 🌐 Python | 📅 2025-12-22 - [Pydantic](https://github.com/pydantic/pydantic) ⭐ 26,761 | 🐛 547 | 🌐 Python | 📅 2026-02-10 support.
+* [Flask-Pydantic](https://github.com/pallets-eco/flask-pydantic) ⭐ 433 | 🐛 20 | 🌐 Python | 📅 2025-12-22 - [Pydantic](https://github.com/pydantic/pydantic) ⭐ 26,776 | 🐛 549 | 🌐 Python | 📅 2026-02-11 support.
 
 ### Databases
 
@@ -226,7 +226,7 @@
 
 * [Documentation](https://flask.palletsprojects.com) - Comprehensive documentation for all Flask versions.
 * [Flaskr Tutorial](https://flask.palletsprojects.com/tutorial/) - Build a basic blog application called Flaskr.
-* [Source Code](https://github.com/pallets/flask) ⭐ 71,147 | 🐛 2 | 🌐 Python | 📅 2026-02-06 - Hosted on GitHub.
+* [Source Code](https://github.com/pallets/flask) ⭐ 71,148 | 🐛 2 | 🌐 Python | 📅 2026-02-06 - Hosted on GitHub.
 
 ### External Resources
 
@@ -356,14 +356,14 @@ Compute:
 
 ### Open Source Projects
 
-* [Airflow](https://github.com/apache/airflow/tree/master/airflow/www) ⭐ 44,223 | 🐛 1,735 | 🌐 Python | 📅 2026-02-10
-* [Redash](https://github.com/getredash/redash) ⭐ 28,215 | 🐛 735 | 🌐 Python | 📅 2026-02-10 - Designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small.
-* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,443 | 🐛 223 | 🌐 Python | 📅 2026-02-06 - Protect your online identity with email alias.
+* [Airflow](https://github.com/apache/airflow/tree/master/airflow/www) ⭐ 44,238 | 🐛 1,725 | 🌐 Python | 📅 2026-02-12
+* [Redash](https://github.com/getredash/redash) ⭐ 28,217 | 🐛 736 | 🌐 Python | 📅 2026-02-10 - Designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small.
+* [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,447 | 🐛 223 | 🌐 Python | 📅 2026-02-11 - Protect your online identity with email alias.
 * [Security Monkey](https://github.com/Netflix/security_monkey) ⚠️ Archived - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,773 | 🐛 464 | 🌐 Python | 📅 2026-02-10 - Open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources.
-* [Timesketch](https://github.com/google/timesketch) ⭐ 3,267 | 🐛 207 | 🌐 Python | 📅 2026-02-11 - Collaborative forensic timeline analysis.
-* [FlaskBB](https://github.com/flaskbb/flaskbb) ⭐ 2,662 | 🐛 27 | 🌐 Python | 📅 2026-02-09 - Classic forum software.
-* [Indico](https://github.com/indico/indico) ⭐ 2,014 | 🐛 837 | 🌐 Python | 📅 2026-02-11 - Feature-rich event management system, made at [CERN](https://home.cern/).
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,772 | 🐛 462 | 🌐 Python | 📅 2026-02-11 - Open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources.
+* [Timesketch](https://github.com/google/timesketch) ⭐ 3,267 | 🐛 212 | 🌐 Python | 📅 2026-02-11 - Collaborative forensic timeline analysis.
+* [FlaskBB](https://github.com/flaskbb/flaskbb) ⭐ 2,662 | 🐛 27 | 🌐 Python | 📅 2026-02-11 - Classic forum software.
+* [Indico](https://github.com/indico/indico) ⭐ 2,014 | 🐛 833 | 🌐 Python | 📅 2026-02-11 - Feature-rich event management system, made at [CERN](https://home.cern/).
 * [SkyLines](https://github.com/skylines-project/skylines) ⭐ 402 | 🐛 150 | 🌐 Python | 📅 2026-02-10 - Live tracking, flight database, and competition framework.
 * [PythonBuddy](https://github.com/ethanchewy/PythonBuddy) ⭐ 283 | 🐛 16 | 🌐 Python | 📅 2026-01-08 - Online Python Editor with live syntax checking and execution.
 * [ActorCloud](https://github.com/actorcloud/ActorCloud) ⭐ 197 | 🐛 56 | 🌐 Vue | 📅 2022-12-10 - Open-source IoT Platform.
