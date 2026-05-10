@@ -279,7 +279,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-09T01:47:33Z",
+            "last_commit": "2026-05-09T05:35:40Z",
             "owner": "apitally",
             "repo": "apitally-py",
             "stars": 218
@@ -455,7 +455,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-07T19:02:17Z",
+            "last_commit": "2026-05-10T03:04:27Z",
             "owner": "aws",
             "repo": "chalice",
             "stars": 11045
@@ -508,7 +508,7 @@
             "last_commit": "2026-04-09T11:05:24Z",
             "owner": "dpgaspar",
             "repo": "Flask-AppBuilder",
-            "stars": 4950
+            "stars": 4951
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-03-06T13:42:27Z",
             "owner": "tiangolo",
             "repo": "uwsgi-nginx-flask-docker",
-            "stars": 3007
+            "stars": 3008
           }
         },
         {
@@ -565,7 +565,7 @@
             "last_commit": "2021-07-13T02:26:54Z",
             "owner": "dternyak",
             "repo": "React-Redux-Flask",
-            "stars": 1496
+            "stars": 1495
           }
         }
       ],
@@ -607,7 +607,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T20:30:37Z",
+            "last_commit": "2026-05-09T18:21:39Z",
             "owner": "flaskbb",
             "repo": "flaskbb",
             "stars": 2662
@@ -620,10 +620,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-09T01:49:52Z",
+            "last_commit": "2026-05-09T11:05:41Z",
             "owner": "indico",
             "repo": "indico",
-            "stars": 2066
+            "stars": 2067
           }
         },
         {
@@ -690,7 +690,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T20:40:11Z",
+            "last_commit": "2026-05-09T13:52:36Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
             "stars": 3840
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:14:37.903Z",
+    "last_updated": "2026-05-10T05:29:50.159Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
