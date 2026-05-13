@@ -445,7 +445,7 @@
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11842
+            "stars": 11843
           }
         },
         {
@@ -589,6 +589,19 @@
         },
         {
           "children": [],
+          "description": "Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.",
+          "title": "BOFS",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T00:01:38Z",
+            "owner": "colbyj",
+            "repo": "bride-of-frankensystem",
+            "stars": 13
+          }
+        },
+        {
+          "children": [],
           "description": "Chicago Python's Community Engagement Slack bot.",
           "title": "Busy Beaver",
           "repo_info": {
@@ -610,7 +623,7 @@
             "last_commit": "2026-05-11T19:10:41Z",
             "owner": "flaskbb",
             "repo": "flaskbb",
-            "stars": 2662
+            "stars": 2663
           }
         },
         {
@@ -620,10 +633,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T19:42:43Z",
+            "last_commit": "2026-05-12T15:37:25Z",
             "owner": "indico",
             "repo": "indico",
-            "stars": 2067
+            "stars": 2066
           }
         },
         {
@@ -654,7 +667,7 @@
             "last_commit": "2026-05-06T17:12:09Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28564
+            "stars": 28571
           }
         },
         {
@@ -664,7 +677,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T01:01:45Z",
+            "last_commit": "2026-05-12T10:18:37Z",
             "owner": "skylines-project",
             "repo": "skylines",
             "stars": 404
@@ -690,10 +703,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T14:40:18Z",
+            "last_commit": "2026-05-12T21:55:48Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
-            "stars": 3839
+            "stars": 3840
           }
         },
         {
@@ -703,10 +716,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T10:29:52Z",
+            "last_commit": "2026-05-12T13:20:14Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6651
+            "stars": 6654
           }
         },
         {
@@ -721,10 +734,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T04:45:34Z",
+            "last_commit": "2026-05-12T06:22:07Z",
             "owner": "google",
             "repo": "timesketch",
-            "stars": 3325
+            "stars": 3327
           }
         }
       ],
@@ -732,7 +745,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:31:07.694Z",
+    "last_updated": "2026-05-13T05:40:55.480Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
