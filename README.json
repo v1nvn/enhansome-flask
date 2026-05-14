@@ -265,6 +265,19 @@
             "repo": "flask-talisman",
             "stars": 86
           }
+        },
+        {
+          "children": [],
+          "description": "A lightweight library for defining and applying HTTP security headers consistently in Flask applications.",
+          "title": "secure",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-30T12:37:00Z",
+            "owner": "TypeError",
+            "repo": "secure",
+            "stars": 1028
+          }
         }
       ],
       "title": "Security"
@@ -367,7 +380,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T22:58:51Z",
+            "last_commit": "2026-05-13T19:40:10Z",
             "owner": "miguelgrinberg",
             "repo": "Flask-Moment",
             "stars": 381
@@ -482,7 +495,7 @@
             "last_commit": "2025-12-02T04:56:04Z",
             "owner": "cookiecutter-flask",
             "repo": "cookiecutter-flask",
-            "stars": 4726
+            "stars": 4727
           }
         },
         {
@@ -594,10 +607,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T00:01:38Z",
+            "last_commit": "2026-05-14T05:05:25Z",
             "owner": "colbyj",
             "repo": "bride-of-frankensystem",
-            "stars": 13
+            "stars": 14
           }
         },
         {
@@ -620,7 +633,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T19:10:41Z",
+            "last_commit": "2026-05-13T22:13:51Z",
             "owner": "flaskbb",
             "repo": "flaskbb",
             "stars": 2663
@@ -633,10 +646,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T15:37:25Z",
+            "last_commit": "2026-05-13T15:42:10Z",
             "owner": "indico",
             "repo": "indico",
-            "stars": 2066
+            "stars": 2067
           }
         },
         {
@@ -667,7 +680,7 @@
             "last_commit": "2026-05-06T17:12:09Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28571
+            "stars": 28570
           }
         },
         {
@@ -703,7 +716,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T21:55:48Z",
+            "last_commit": "2026-05-13T22:15:40Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
             "stars": 3840
@@ -716,10 +729,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T13:20:14Z",
+            "last_commit": "2026-05-13T14:28:21Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6654
+            "stars": 6652
           }
         },
         {
@@ -734,10 +747,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T06:22:07Z",
+            "last_commit": "2026-05-13T13:11:14Z",
             "owner": "google",
             "repo": "timesketch",
-            "stars": 3327
+            "stars": 3326
           }
         }
       ],
@@ -745,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:40:55.480Z",
+    "last_updated": "2026-05-14T05:40:13.146Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
