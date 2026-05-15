@@ -276,7 +276,7 @@
             "last_commit": "2026-04-30T12:37:00Z",
             "owner": "TypeError",
             "repo": "secure",
-            "stars": 1028
+            "stars": 1032
           }
         }
       ],
@@ -295,7 +295,7 @@
             "last_commit": "2026-05-09T05:35:40Z",
             "owner": "apitally",
             "repo": "apitally-py",
-            "stars": 218
+            "stars": 219
           }
         },
         {
@@ -380,7 +380,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T19:40:10Z",
+            "last_commit": "2026-05-14T19:43:09Z",
             "owner": "miguelgrinberg",
             "repo": "Flask-Moment",
             "stars": 381
@@ -607,7 +607,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-14T05:05:25Z",
+            "last_commit": "2026-05-14T16:36:31Z",
             "owner": "colbyj",
             "repo": "bride-of-frankensystem",
             "stars": 14
@@ -680,7 +680,7 @@
             "last_commit": "2026-05-06T17:12:09Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28570
+            "stars": 28571
           }
         },
         {
@@ -716,7 +716,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T22:15:40Z",
+            "last_commit": "2026-05-15T00:56:26Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
             "stars": 3840
@@ -732,7 +732,7 @@
             "last_commit": "2026-05-13T14:28:21Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6652
+            "stars": 6656
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-05-13T13:11:14Z",
             "owner": "google",
             "repo": "timesketch",
-            "stars": 3326
+            "stars": 3327
           }
         }
       ],
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:40:13.146Z",
+    "last_updated": "2026-05-15T05:46:10.602Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
