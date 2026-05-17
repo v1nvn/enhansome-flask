@@ -276,7 +276,7 @@
             "last_commit": "2026-04-30T12:37:00Z",
             "owner": "TypeError",
             "repo": "secure",
-            "stars": 1035
+            "stars": 1036
           }
         }
       ],
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T04:57:58Z",
+            "last_commit": "2026-05-16T13:40:47Z",
             "owner": "apitally",
             "repo": "apitally-py",
             "stars": 219
@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T15:42:10Z",
+            "last_commit": "2026-05-16T10:01:05Z",
             "owner": "indico",
             "repo": "indico",
             "stars": 2068
@@ -680,7 +680,7 @@
             "last_commit": "2026-05-06T17:12:09Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28574
+            "stars": 28576
           }
         },
         {
@@ -716,7 +716,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T00:49:09Z",
+            "last_commit": "2026-05-16T15:40:12Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
             "stars": 3841
@@ -732,7 +732,7 @@
             "last_commit": "2026-05-13T14:28:21Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6659
+            "stars": 6662
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-05-13T13:11:14Z",
             "owner": "google",
             "repo": "timesketch",
-            "stars": 3328
+            "stars": 3329
           }
         }
       ],
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:19:56.471Z",
+    "last_updated": "2026-05-17T05:40:50.227Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
