@@ -148,7 +148,7 @@
             "last_commit": "2025-12-12T08:28:51Z",
             "owner": "authomatic",
             "repo": "authomatic",
-            "stars": 1053
+            "stars": 1054
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2024-04-17T09:20:40Z",
             "owner": "wntrblm",
             "repo": "flask-talisman",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-05-12T04:15:27Z",
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11048
+            "stars": 11050
           }
         }
       ],
@@ -495,7 +495,7 @@
             "last_commit": "2025-12-02T04:56:04Z",
             "owner": "cookiecutter-flask",
             "repo": "cookiecutter-flask",
-            "stars": 4727
+            "stars": 4728
           }
         },
         {
@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T10:01:05Z",
+            "last_commit": "2026-05-17T10:21:22Z",
             "owner": "indico",
             "repo": "indico",
             "stars": 2068
@@ -680,7 +680,7 @@
             "last_commit": "2026-05-06T17:12:09Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28576
+            "stars": 28577
           }
         },
         {
@@ -690,7 +690,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T01:34:10Z",
+            "last_commit": "2026-05-18T01:38:02Z",
             "owner": "skylines-project",
             "repo": "skylines",
             "stars": 404
@@ -716,7 +716,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T15:40:12Z",
+            "last_commit": "2026-05-17T15:40:09Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
             "stars": 3841
@@ -732,7 +732,7 @@
             "last_commit": "2026-05-13T14:28:21Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6662
+            "stars": 6666
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-05-13T13:11:14Z",
             "owner": "google",
             "repo": "timesketch",
-            "stars": 3329
+            "stars": 3331
           }
         }
       ],
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:40:50.227Z",
+    "last_updated": "2026-05-18T06:03:30.187Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
