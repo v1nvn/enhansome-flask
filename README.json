@@ -41,7 +41,7 @@
             "last_commit": "2024-06-17T23:38:25Z",
             "owner": "flasgger",
             "repo": "flasgger",
-            "stars": 3742
+            "stars": 3743
           }
         },
         {
@@ -521,7 +521,7 @@
             "last_commit": "2026-04-09T11:05:24Z",
             "owner": "dpgaspar",
             "repo": "Flask-AppBuilder",
-            "stars": 4951
+            "stars": 4952
           }
         },
         {
@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-19T16:05:43Z",
+            "last_commit": "2026-05-22T05:31:24Z",
             "owner": "indico",
             "repo": "indico",
             "stars": 2071
@@ -680,7 +680,7 @@
             "last_commit": "2026-05-06T17:12:09Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28586
+            "stars": 28589
           }
         },
         {
@@ -716,7 +716,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-20T15:40:10Z",
+            "last_commit": "2026-05-21T15:53:06Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
             "stars": 3842
@@ -732,7 +732,7 @@
             "last_commit": "2026-05-19T08:44:23Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6670
+            "stars": 6672
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-05-19T15:43:05Z",
             "owner": "google",
             "repo": "timesketch",
-            "stars": 3335
+            "stars": 3336
           }
         }
       ],
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-21T06:01:21.052Z",
+    "last_updated": "2026-05-22T05:57:36.040Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
