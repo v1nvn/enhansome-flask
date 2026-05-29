@@ -51,7 +51,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-03T19:22:18Z",
+            "last_commit": "2026-05-28T17:40:44Z",
             "owner": "plangrid",
             "repo": "flask-rebar",
             "stars": 235
@@ -308,7 +308,7 @@
             "last_commit": "2024-08-07T06:38:21Z",
             "owner": "python-babel",
             "repo": "flask-babel",
-            "stars": 452
+            "stars": 453
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11840
+            "stars": 11837
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-05-12T04:15:27Z",
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11056
+            "stars": 11057
           }
         }
       ],
@@ -518,10 +518,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T12:45:02Z",
+            "last_commit": "2026-05-28T10:18:03Z",
             "owner": "dpgaspar",
             "repo": "Flask-AppBuilder",
-            "stars": 4954
+            "stars": 4953
           }
         },
         {
@@ -565,7 +565,7 @@
             "last_commit": "2026-05-26T20:54:08Z",
             "owner": "tiangolo",
             "repo": "uwsgi-nginx-flask-docker",
-            "stars": 3006
+            "stars": 3005
           }
         },
         {
@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-26T15:36:11Z",
+            "last_commit": "2026-05-28T15:56:31Z",
             "owner": "indico",
             "repo": "indico",
             "stars": 2074
@@ -680,7 +680,7 @@
             "last_commit": "2026-05-06T17:12:09Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28604
+            "stars": 28612
           }
         },
         {
@@ -716,7 +716,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T19:40:50Z",
+            "last_commit": "2026-05-28T15:40:13Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
             "stars": 3843
@@ -729,10 +729,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T16:19:59Z",
+            "last_commit": "2026-05-28T12:44:09Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6687
+            "stars": 6692
           }
         },
         {
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:01:42.121Z",
+    "last_updated": "2026-05-29T06:03:51.747Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
