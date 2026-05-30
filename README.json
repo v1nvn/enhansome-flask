@@ -41,7 +41,7 @@
             "last_commit": "2024-06-17T23:38:25Z",
             "owner": "flasgger",
             "repo": "flasgger",
-            "stars": 3741
+            "stars": 3742
           }
         },
         {
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-23T03:44:01Z",
+            "last_commit": "2026-05-30T05:39:01Z",
             "owner": "apitally",
             "repo": "apitally-py",
             "stars": 220
@@ -352,7 +352,7 @@
             "last_commit": "2023-01-03T16:53:50Z",
             "owner": "graphql-python",
             "repo": "flask-graphql",
-            "stars": 1341
+            "stars": 1340
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-05-13T22:13:51Z",
             "owner": "flaskbb",
             "repo": "flaskbb",
-            "stars": 2663
+            "stars": 2664
           }
         },
         {
@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-28T15:56:31Z",
+            "last_commit": "2026-05-29T08:58:28Z",
             "owner": "indico",
             "repo": "indico",
             "stars": 2074
@@ -716,7 +716,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-28T15:40:13Z",
+            "last_commit": "2026-05-29T16:03:40Z",
             "owner": "freedomofpress",
             "repo": "securedrop",
             "stars": 3843
@@ -729,10 +729,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-28T12:44:09Z",
+            "last_commit": "2026-05-29T15:04:19Z",
             "owner": "simple-login",
             "repo": "app",
-            "stars": 6692
+            "stars": 6693
           }
         },
         {
@@ -747,7 +747,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T12:14:15Z",
+            "last_commit": "2026-05-29T14:12:27Z",
             "owner": "google",
             "repo": "timesketch",
             "stars": 3340
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-29T06:03:51.747Z",
+    "last_updated": "2026-05-30T05:40:44.439Z",
     "original_repository": "mjhea0/awesome-flask",
     "source_repository": "v1nvn/enhansome-flask",
     "source_repository_description": null,
