@@ -1,4 +1,4 @@
-# Awesome Flask [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 471,267 | 🐛 79 | 📅 2026-05-05 with stars
+# Awesome Flask [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 471,565 | 🐛 81 | 📅 2026-05-05 with stars
 
 > A curated list of awesome things related to Flask.
 
@@ -45,7 +45,7 @@
 
 ### Admin
 
-* [Flask-Admin](https://github.com/pallets-eco/flask-admin) ⭐ 6,057 | 🐛 126 | 🌐 Python | 📅 2026-05-29 - Functional admin panel that provides a user interface for managing data based on your models.
+* [Flask-Admin](https://github.com/pallets-eco/flask-admin) ⭐ 6,057 | 🐛 125 | 🌐 Python | 📅 2026-05-29 - Functional admin panel that provides a user interface for managing data based on your models.
 
 ### APIs
 
@@ -58,7 +58,7 @@
 
 #### RESTful API + Swagger/OpenAPI Documentation Support
 
-* [Flasgger](https://github.com/flasgger/flasgger) ⭐ 3,742 | 🐛 285 | 🌐 Python | 📅 2024-06-17 - OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files.
+* [Flasgger](https://github.com/flasgger/flasgger) ⭐ 3,744 | 🐛 285 | 🌐 Python | 📅 2024-06-17 - OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files.
 * [APIFlask](https://github.com/apiflask/apiflask) ⭐ 1,129 | 🐛 35 | 🌐 Python | 📅 2026-05-03 - Integrates marshmallow for validation and serialization, and for OpenAPI generation with Swagger UI.
 * [flask-smorest](https://github.com/marshmallow-code/flask-smorest/) ⭐ 719 | 🐛 61 | 🌐 Python | 📅 2026-05-04 - Marshmallow's official Flask REST integration. Uses marshmallow models for request/response validation and serialization, and generates OpenAPI with Swagger UI.
 * [Flask-Rebar](https://github.com/plangrid/flask-rebar) ⭐ 235 | 🐛 53 | 🌐 Python | 📅 2026-05-28 - Combines Flask, [marshmallow](https://marshmallow.readthedocs.io/), and [OpenAPI](https://www.openapis.org/) for robust REST services.
@@ -104,7 +104,7 @@
 ### Data Validation and Serialization
 
 * [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io) - Thin integration layer for Flask and marshmallow (an object serialization /deserialization library) that adds additional features to marshmallow.
-* [Flask-Pydantic](https://github.com/pallets-eco/flask-pydantic) ⭐ 435 | 🐛 22 | 🌐 Python | 📅 2025-12-22 - [Pydantic](https://github.com/pydantic/pydantic) ⭐ 27,882 | 🐛 568 | 🌐 Python | 📅 2026-05-29 support.
+* [Flask-Pydantic](https://github.com/pallets-eco/flask-pydantic) ⭐ 435 | 🐛 22 | 🌐 Python | 📅 2025-12-22 - [Pydantic](https://github.com/pydantic/pydantic) ⭐ 27,897 | 🐛 569 | 🌐 Python | 📅 2026-05-29 support.
 
 ### Databases
 
@@ -207,7 +207,7 @@
 * [Flask-Babel](https://github.com/python-babel/flask-babel) ⭐ 453 | 🐛 20 | 🌐 Python | 📅 2024-08-07 - Support for internationalization (i18n) and localization (l10n).
 * [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) ⭐ 381 | 🐛 1 | 🌐 Python | 📅 2026-05-14 - Moment.js date and time formatting helpers for Jinja2 templates.
 * [Flask-Injector](https://github.com/python-injector/flask_injector) ⭐ 283 | 🐛 15 | 🌐 Python | 📅 2024-05-08 - Adds support for dependency injection.
-* [Apitally](https://github.com/apitally/apitally-py) ⭐ 220 | 🐛 3 | 🌐 Python | 📅 2026-05-30 - API monitoring, analytics, and request logging for Flask.
+* [Apitally](https://github.com/apitally/apitally-py) ⭐ 221 | 🐛 3 | 🌐 Python | 📅 2026-05-30 - API monitoring, analytics, and request logging for Flask.
 * [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) ⭐ 190 | 🐛 14 | 🌐 Python | 📅 2024-11-22 - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 * [Flask-File-Upload](https://github.com/joegasewicz/flask-file-upload) ⚠️ Archived - Easy file uploads.
 * [Flask-Reactize](https://github.com/Azure-Samples/flask-reactize) ⚠️ Archived - Hides the Node.js development backend for React behind a Flask application.
@@ -228,7 +228,7 @@
 
 * [Documentation](https://flask.palletsprojects.com) - Comprehensive documentation for all Flask versions.
 * [Flaskr Tutorial](https://flask.palletsprojects.com/tutorial/) - Build a basic blog application called Flaskr.
-* [Source Code](https://github.com/pallets/flask) ⭐ 71,585 | 🐛 3 | 🌐 Python | 📅 2026-05-18 - Hosted on GitHub.
+* [Source Code](https://github.com/pallets/flask) ⭐ 71,581 | 🐛 3 | 🌐 Python | 📅 2026-05-18 - Hosted on GitHub.
 
 ### External Resources
 
@@ -352,20 +352,20 @@ Compute:
 * [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) ⭐ 3,005 | 🐛 1 | 🌐 Python | 📅 2026-05-26 - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 * [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) ⭐ 1,495 | 🐛 12 | 🌐 JavaScript | 📅 2021-07-13 - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
 * [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) ⭐ 211 | 🐛 1 | 🌐 JavaScript | 📅 2022-12-27 - Integrated SQLAlchemy, authentication, and Bootstrap frontend.
-* [Cookiecutter Flask Skeleton](https://github.com/testdrivenio/cookiecutter-flask-skeleton) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2020-02-29 - Flask starter project for [Cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 24,902 | 🐛 298 | 🌐 Python | 📅 2026-04-01.
+* [Cookiecutter Flask Skeleton](https://github.com/testdrivenio/cookiecutter-flask-skeleton) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2020-02-29 - Flask starter project for [Cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 24,906 | 🐛 298 | 🌐 Python | 📅 2026-04-01.
 * [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) ⭐ 37 | 🐛 1 | 🌐 HTML | 📅 2021-10-18 - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 * [flask-base](http://hack4impact.github.io/flask-base/) - Includes SQLAlchemy, Redis, User Authentication, and more.
 
 ### Open Source Projects
 
-* [Redash](https://github.com/getredash/redash) ⭐ 28,612 | 🐛 760 | 🌐 Python | 📅 2026-05-06 - Designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small.
+* [Redash](https://github.com/getredash/redash) ⭐ 28,611 | 🐛 760 | 🌐 Python | 📅 2026-05-06 - Designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small.
 * [SimpleLogin](https://github.com/simple-login/app) ⭐ 6,693 | 🐛 233 | 🌐 Python | 📅 2026-05-29 - Protect your online identity with email alias.
 * [Security Monkey](https://github.com/Netflix/security_monkey) ⚠️ Archived - Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,843 | 🐛 472 | 🌐 Python | 📅 2026-05-29 - Open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources.
-* [Timesketch](https://github.com/google/timesketch) ⭐ 3,340 | 🐛 213 | 🌐 Python | 📅 2026-05-29 - Collaborative forensic timeline analysis.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,843 | 🐛 472 | 🌐 Python | 📅 2026-05-30 - Open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources.
+* [Timesketch](https://github.com/google/timesketch) ⭐ 3,343 | 🐛 213 | 🌐 Python | 📅 2026-05-29 - Collaborative forensic timeline analysis.
 * [FlaskBB](https://github.com/flaskbb/flaskbb) ⭐ 2,664 | 🐛 29 | 🌐 Python | 📅 2026-05-13 - Classic forum software.
-* [Indico](https://github.com/indico/indico) ⭐ 2,074 | 🐛 885 | 🌐 Python | 📅 2026-05-29 - Feature-rich event management system, made at [CERN](https://home.cern/).
-* [SkyLines](https://github.com/skylines-project/skylines) ⭐ 404 | 🐛 107 | 🌐 Python | 📅 2026-05-25 - Live tracking, flight database, and competition framework.
+* [Indico](https://github.com/indico/indico) ⭐ 2,074 | 🐛 886 | 🌐 Python | 📅 2026-05-30 - Feature-rich event management system, made at [CERN](https://home.cern/).
+* [SkyLines](https://github.com/skylines-project/skylines) ⭐ 404 | 🐛 107 | 🌐 Python | 📅 2026-05-30 - Live tracking, flight database, and competition framework.
 * [PythonBuddy](https://github.com/ethanchewy/PythonBuddy) ⭐ 282 | 🐛 17 | 🌐 Python | 📅 2026-02-20 - Online Python Editor with live syntax checking and execution.
 * [ActorCloud](https://github.com/actorcloud/ActorCloud) ⭐ 197 | 🐛 56 | 🌐 Vue | 📅 2022-12-10 - Open-source IoT Platform.
 * [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver) ⚠️ Archived - Chicago Python's Community Engagement Slack bot.
